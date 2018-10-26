@@ -6,6 +6,8 @@ packages/
 artifacts/
 *.user
 *.suo
+*.lock
+*.ide
 *.userprefs
 *DS_Store
 *.sln.ide
