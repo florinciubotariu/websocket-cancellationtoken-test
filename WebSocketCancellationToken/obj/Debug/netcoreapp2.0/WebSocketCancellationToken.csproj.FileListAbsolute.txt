@@ -1,0 +1,11 @@
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\bin\Debug\netcoreapp2.0\WebSocketCancellationToken.deps.json
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\bin\Debug\netcoreapp2.0\WebSocketCancellationToken.runtimeconfig.json
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\bin\Debug\netcoreapp2.0\WebSocketCancellationToken.runtimeconfig.dev.json
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\bin\Debug\netcoreapp2.0\WebSocketCancellationToken.dll
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\bin\Debug\netcoreapp2.0\WebSocketCancellationToken.pdb
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\obj\Debug\netcoreapp2.0\WebSocketCancellationToken.csprojResolveAssemblyReference.cache
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\obj\Debug\netcoreapp2.0\WebSocketCancellationToken.csproj.CoreCompileInputs.cache
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\obj\Debug\netcoreapp2.0\WebSocketCancellationToken.AssemblyInfoInputs.cache
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\obj\Debug\netcoreapp2.0\WebSocketCancellationToken.AssemblyInfo.cs
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\obj\Debug\netcoreapp2.0\WebSocketCancellationToken.dll
+C:\Users\Qbk\Source\repos\WebSocketCancellationToken\WebSocketCancellationToken\obj\Debug\netcoreapp2.0\WebSocketCancellationToken.pdb
